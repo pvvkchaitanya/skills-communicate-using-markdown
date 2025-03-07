@@ -14,3 +14,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [x] List syntax is required - CHAI1
+- [x] This item is complete CHAI2
+- [ ] This item is not complete CHAI3
